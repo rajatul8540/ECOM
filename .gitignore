@@ -4,3 +4,6 @@ node_modules
 .next/
 node_modules/
 .env
+.next/
+node_modules/
+.env
