@@ -36,6 +36,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - Tailwind CSS for styling
 
 
-npx neonctl@latest init
+<!-- npx neonctl@latest init
 
-postgresql://neondb_owner:npg_DgJV6wyF8tQk@ep-falling-term-a4ugay0k-pooler.us-east-1.aws.neon.tech/ecom?sslmode=require&channel_binding=require# ECOM
+postgresql://neondb_owner:npg_DgJV6wyF8tQk@ep-falling-term-a4ugay0k-pooler.us-east-1.aws.neon.tech/ecom?sslmode=require&channel_binding=require# ECOM -->
