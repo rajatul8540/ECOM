@@ -34,3 +34,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - PostgreSQL database with Prisma ORM
 - Next.js App Router
 - Tailwind CSS for styling
+
+
+npx neonctl@latest init
+
+postgresql://neondb_owner:npg_DgJV6wyF8tQk@ep-falling-term-a4ugay0k-pooler.us-east-1.aws.neon.tech/ecom?sslmode=require&channel_binding=require# ECOM
